@@ -1,0 +1,44 @@
+{
+  "recipes": [
+    {
+      "prepTime": "10 Mins",
+      "ingredients": "2 tablespoons instant coffee\\n2 tablespoons sugar\\n2 tablespoons hot water\\nMilk as required",
+      "stepsGuide": "Add coffee, sugar, and water into a bowl or cup, and whip until it reaches a meringue like consistency.\\nTake a cup of milk & spoon whipped coffee on it and enjoy!",
+      "id": 1,
+      "title": "Dalgona Coffee",
+      "cookingTime": "1 Hr",
+      "cover": "https://github.com/safisahar/Mobile-Developer-Test---Recipe-App/raw/master/images/dalgona.png",
+      "category": "breakfast"
+    },
+    {
+      "id": 2,
+      "title": "Waffle",
+      "cookingTime": "30 Mins",
+      "cover": "https://github.com/safisahar/Mobile-Developer-Test---Recipe-App/raw/master/images/waffle.png",
+      "prepTime": "20 Mins",
+      "ingredients": "2 cups all purpose flour\\n2 teaspoons baking powder\\n1 teaspoon kosher salt\\n1 cup whole milk\\n½ cup buttermilk\\n 4 tablespoons unsalted butter, melted and cooled\\n½ teaspoon vanilla extract\\n2 large eggs, separated\\n½ cup sugar\\nNonstick cooking spray, for greasing\\nButter, for serving\\nMaple syrup, for serving",
+      "stepsGuide": "Preheat a waffle iron to medium-high.\\nIn a large bowl, whisk together the flour, baking powder, and salt. Make a well in the center and pour in the milk, buttermilk, melted butter, vanilla and egg yolks. Whisk until the batter just comes together (there will be some lumps).\\nAdd the egg whites to a medium bowl and beat with an electric hand mixer until foamy. With the mixer running, gradually add the sugar and continue beating until stiff peaks form. Gently fold the egg whites into the batter until just combined.\\nSpray the heated waffle iron with nonstick cooking spray. Ladle the batter into waffle iron, close the lide, and cook according to the manufacturer's instructions until the waffle is golden brown and crisp, 5-6 minutes. Transfer the waffle to a plate and repeat with the remaining batter.\\nServe the waffle hot, with butter and maple syrup alongside. Enjoy!",
+      "category": "breakfast"
+    },
+    {
+      "prepTime": "10 Mins",
+      "stepsGuide": "Shred the cheddar cheese on the large holes of a box grater.\\nAdd the kimchi to a small bowl and use kitchen shears to cut into small pieces.\\nButter both sides of each slice of bread.\\n Heat the olive oil in a medium nonstick skillet over medium-high heat. Add the kimchi and cook until softened, about 2-3 minutes. Add the sugar and cook for an additional minute, stirring to incorporate. Transfer the kimchi to a bowl and wipe out the skillet.\\nTurn the heat to medium and add both slices of butter bread to the skillet. Cook until the bottom is golden brown, then add the american cheese to one slice and all but 2 tablespoons of cheddar cheese to the other slice. Top the american cheese with kimchi and remaining 2 tablespoons cheddar. Cook until the cheese starts to melt and the underside of the bread begins to turn golden, 3-4 minutes.\\nSandwich the slices of bread together and cook, flipping once for another 2-3 minutes, until the cheese is gooey and fully melted and the bread is well-toasted.\\nTransfer to a cutting board and cut in half. Enjoy!",
+      "ingredients": "½ cup shredded cheddar cheese, divided\\n¼ cup kimchi, drained\\n2 pieces italian bread\\n4 tablespoons unsalted butter, 1/2 stick\\n1 teaspoon olive oil\\n1 teaspoon sugar\\n2 slices amerian cheese",
+      "id": 3,
+      "title": "Kimchi Grilled Cheese",
+      "category": "lunch",
+      "cookingTime": "15 Mins",
+      "cover": "https://github.com/safisahar/Mobile-Developer-Test---Recipe-App/raw/master/images/kimchi.png"
+    },
+    {
+      "prepTime": "10 Mins",
+      "stepsGuide": "Add the biscuit to a microwave-safe mug. Microwave for 30 seconds, until the biscuits starts to puff up.\\nIn a small bowl, mix together the marinara sauce, garlic powder, and a pinch of basil.\\nSpoon the sauce over the par-cooked biscuit, then top with mozzarella and mini pepperoni.\\nLoosely cover the mug with a paper towel and microwave for 30-40 seconds more, until the cheese is melted and the biscuit is cooked through.\\nTop with another pinch of basil, then let the mini pizza cool for about 5 seconds before serving. Enjoy!",
+      "ingredients": "1 unbaked canned biscuit\\n2 tablespoons marinara sauce\\n1 pinch of garlic powder\\n2 pinches dried basil, divided\\n 2 tablespoons shredded mozzarella cheese\\n8 mini pepperoni",
+      "id": 4,
+      "title": "Pizza In A Mug",
+      "category": "dinner",
+      "cookingTime": "15 Mins",
+      "cover": "https://github.com/safisahar/Mobile-Developer-Test---Recipe-App/raw/master/images/pizzainamug.jpg"
+    }
+  ]
+}
